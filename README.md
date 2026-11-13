@@ -193,7 +193,7 @@ Por ejemplo, agrega una breve descripción del sistema en la siguiente sección:
 
 Escribe aquí una descripción breve del sistema:
 
-> Respuesta del estudiante: ...
+> Sistema que calcula el precio final a pagar según el tipo de cliente. Si el cliente es estudiante, se aplica un descuento del 15 %; en cualquier otro caso, se mantiene el precio original. Está desarrollado en JavaScript y requiere tener Node.js instalado para instalar las dependencias y ejecutarlo.
 
 Luego realice un commit:
 
